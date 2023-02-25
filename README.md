@@ -24,7 +24,7 @@ datasetwork.py: The main Python script for this project that loads the data, cre
 
 README.md: This file that provides an overview of the project and instructions for getting started.
 ## Models
-#### Polynomial Regression
+### Polynomial Regression
 This model uses a 2nd degree polynomial to fit the historical closing prices of the S&P 500 index and generates predictions for 8 years.
 
 ### Prophet
