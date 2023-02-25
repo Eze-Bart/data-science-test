@@ -17,10 +17,13 @@ Once you have these libraries installed, you can run the code in datawork.py to 
 
 ## Files
 spy.csv: The original data file containing the historical closing prices of the S&P 500 index. [Kaggle]https://www.kaggle.com/datasets/gkitchen/s-and-p-500-spy
+
 spy2.csv: A new data file that includes the original data and the predicted closing prices.
+
 datasetwork.py: The main Python script for this project that loads the data, creates the models, and generates the predictions.
+
 README.md: This file that provides an overview of the project and instructions for getting started.
-##Models
+## Models
 #### Polynomial Regression
 This model uses a 2nd degree polynomial to fit the historical closing prices of the S&P 500 index and generates predictions for 8 years.
 
